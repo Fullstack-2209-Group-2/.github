@@ -1,4 +1,4 @@
-#Group Norms
+## Group Norms
 
 - In the case of disagreement, we voice our opinion and if both sides feel strongly about their perspective, we can move the discussion to the entire group to further discuss and potentially take a vote to solve the matter.
 
