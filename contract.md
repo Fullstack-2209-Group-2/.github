@@ -17,9 +17,9 @@
 8. Group members (generally) agree that switching the driver position should occur only after a section of code is completed (i.e. good stopping point).
 
 9. After Hours Guidelines: COMMUNICATE!
-  -Andrew Crow: Always be available after 8:30pm central.
-  -Kaylan Thompson: Generally always available.  Slack notifications are on as well.
+  - Andrew Crow: Always be available after 8:30pm central.
+  - Kaylan Thompson: Generally always available.  Slack notifications are on as well.
   
 10. Daily meetings:
-  -First thing in the morning
-  -Meeting at the end of the day
+  - First thing in the morning
+  - Meeting at the end of the day
